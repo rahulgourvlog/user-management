@@ -1,6 +1,8 @@
 # user-management
 user-management app made by next js
 
+user-management app made by next js
+
 Project Overview
 This project displays user data fetched from a public API, allowing users to sort, filter, search, and paginate the data in a table format. It uses TanStack Query for data fetching and caching, enabling efficient management of server data.
 
@@ -20,3 +22,5 @@ Caching: Ensuring that the data was cached efficiently without causing issues wi
 Error Handling: Managing errors from API calls effectively with retry logic and proper error states to ensure a smooth user experience.
 Complex State Management: Handling global search and column-specific filters while also managing pagination and sorting state proved challenging.
 Async State Updates: Ensuring that sorting, filtering, and pagination correctly trigger updates to the displayed data without causing re-fetching or performance issues.
+
+
